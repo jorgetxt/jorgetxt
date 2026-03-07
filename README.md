@@ -1,4 +1,4 @@
-# Jorge Hidalgo 👋
+# Jorge Hidalgo👋
 
 **Software Developer | Fullstack Engineer**
 
@@ -63,5 +63,6 @@ React • TypeScript • Node.js • NestJS • Laravel • .NET • C# • Mong
 
 ## 📫 Contact
 
-LinkedIn: (tu link)
-Portfolio: (tu link)
+LinkedIn: https://www.linkedin.com/in/jorge-hidalgo-9650571ab/
+
+Portfolio: (próximamente)
