@@ -66,3 +66,11 @@ React • TypeScript • Node.js • NestJS • Laravel • .NET • C# • Mong
 LinkedIn: https://www.linkedin.com/in/jorge-hidalgo-9650571ab/
 
 Portfolio: (próximamente)
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice algorithms and problem solving on Codewars.
+
+🔗 https://www.codewars.com/users/jorgetxt
