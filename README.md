@@ -65,7 +65,7 @@ React • TypeScript • Node.js • NestJS • Laravel • .NET • C# • Mong
 
 LinkedIn: https://www.linkedin.com/in/jorge-hidalgo-9650571ab/
 
-Portfolio: (próximamente)
+Portfolio: https://landing-jorge.vercel.app/
 
 ---
 
